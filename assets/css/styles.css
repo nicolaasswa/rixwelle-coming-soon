@@ -91,7 +91,7 @@ p, input, label {
 }
 
 form {
-    font-family: 'Roboto Condensed';
+    font-family: 'Helvetica Neue', sans-serif;
     font-size: 14px;
     line-height: 1.6;
     letter-spacing: 1px;
@@ -108,7 +108,7 @@ form {
 
 input[type="text"]
 {
-    font-family: 'Roboto Condensed';
+    font-family: 'Helvetica Neue', sans-serif;
     font-size: 14px;
     padding: 8px;
 }
